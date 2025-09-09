@@ -25,3 +25,6 @@ Program ini menggunakan ArrayList sebagai media penyimpanan data sementara, sert
 <img width="410" height="150" alt="Screenshot 2025-09-09 224420" src="https://github.com/user-attachments/assets/9077487f-2567-48fe-8546-aad0d4e42ef5" />
 
 Tampilan yang pertama kali muncul saat menjalankan program adalah menu manajemen koleksi alat makeup. Disini terdapat 5 pilihan yaitu Tambah Koleksi, Lihat Koleksi, Ubah Koleksi, Hapus Koleksi, dan Keluar Program.
+
+<details>
+<summary><h3>Tambah Koleksi</h3></summary>
