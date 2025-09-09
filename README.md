@@ -16,3 +16,8 @@ Fitur yang tersedia antara lain:
 5. **Keluar Program**: Menghentikan jalannya program
 
 Program ini menggunakan ArrayList sebagai media penyimpanan data sementara, serta menerapkan konsep dasar Java berupa percabangan (if-else, switch) dan perulangan (for, while) agar program dapat berjalan terus sampai pengguna memilih keluar.
+
+# Penggunaan Program
+
+<details>
+<summary><h3>🏠Menu Utama</h3></summary>
