@@ -54,12 +54,17 @@ Jika pengguna memilih opsi 3. Ubah Koleksi, maka program akan meminta nomor kole
 
 <img width="432" height="228" alt="image" src="https://github.com/user-attachments/assets/f50f5966-ffaf-4872-b6d5-05351cef21d6" />
 
+Apabila pengguna memasukkan nomor koleksi yang tidak tersedia, program akan menampilkan pesan "Nomor tidak valid!" sebagai bentuk validasi agar pengguna tidak bisa mengubah koleksi yang tidak ada.
 
 ## 4. Hapus Koleksi
 
 <img width="451" height="437" alt="image" src="https://github.com/user-attachments/assets/10d94060-b072-4c7d-9f70-7ac446d67b64" />
 
 Jika pengguna memilih opsi 4. Hapus Koleksi, maka program akan meminta nomor koleksi yang ingin dihapus. Setelah itu, data koleks akan dihapus dari daftar
+
+<img width="438" height="215" alt="image" src="https://github.com/user-attachments/assets/b244d9be-0a32-455c-bb76-e84c36a60cfd" />
+
+Apabila pengguna memasukkan nomor koleksi yang tidak tersedia, program akan menampilkan pesan "Nomor tidak valid!" sebagai bentuk validasi agar pengguna tidak bisa mengubah koleksi yang tidak ada.
 
 ## 5. Keluar
 
