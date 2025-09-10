@@ -22,15 +22,16 @@ Program ini menggunakan ArrayList sebagai media penyimpanan data sementara, sert
 <details>
 <summary><h3>Menu Koleksi Alat Makeup</h3></summary>
 
-<img width="410" height="150" alt="Screenshot 2025-09-09 224420" src="https://github.com/user-attachments/assets/9077487f-2567-48fe-8546-aad0d4e42ef5" />
+<img width="310" height="173" alt="image" src="https://github.com/user-attachments/assets/fd614018-1b77-47e1-b297-f2ad06a62103" />
 
-Tampilan yang pertama kali muncul saat menjalankan program adalah menu manajemen koleksi alat makeup. Disini terdapat 5 pilihan yaitu Tambah Koleksi, Lihat Koleksi, Ubah Koleksi, Hapus Koleksi, dan Keluar Program.
+Saat program pertama kali dijalankan, sistem akan langsung menampilkan menu utama yang berisi daftar pilihan menu. Pengguna diminta untuk memasukkan nomor menu sesuai dengan pilihan yang diinginkan. Setelah itu, program akan menjalankan perintah sesuai input pengguna dan kemudian kembali menampilkan menu utama, hingga pengguna memilih opsi Keluar untuk menghentikan program.
 
 ## Tambah Koleksi
 
+<img width="459" height="282" alt="image" src="https://github.com/user-attachments/assets/cd2fbccf-b95e-44ab-8379-1377b0018d69" />
 
 
-Jika nomor 1 yang diinput, maka akan masuk ke menu menambahkan produk. Masukkan nama, jenis, merk, dan jumlah alat makeup yang ingin ditambah.
+
 
 ## Lihat Koleksi
 
