@@ -32,20 +32,29 @@ Saat program pertama kali dijalankan, sistem akan langsung menampilkan menu utam
 
 Jika pengguna memilih opsi 1. Tambah Koleksi, program akan meminta pengguna untuk mengisi data alat makeup yang ingin dimasukkan ke dalam daftar koleksi. Setelah semua data dimasukkan dengan benar, program akan menyimpan informasi tersebut ke dalam ArrayList dan menampilkan pesan "Koleksi berhasil ditambahkan!". Data alat makeup baru akan tersimpan dan bisa dilihat kembali melalui menu Lihat Koleksi.
 
+<img width="386" height="235" alt="image" src="https://github.com/user-attachments/assets/04537a91-2010-4e9b-81e3-be86b6829a64" />
 
 ## Lihat Koleksi
 
-Jika nomor 2 yang diinput, maka akan menampilkan apa saja koleksi alat makeup.
+<img width="689" height="268" alt="image" src="https://github.com/user-attachments/assets/99221d1f-8162-4745-b243-cb0079784935" />
+
+Jika pengguna memilih opsi 2. Lihat Koleksi, program akan menampilkan seluruh daftar alat makeup yang sudah tersimpan.
 
 ## Ubah Koleksi
 
-Jika nomor 3 yang diinput, maka akan diarahkan untuk mengubah koleksi alat makeup mana yang mau diubah. 
+<img width="663" height="580" alt="image" src="https://github.com/user-attachments/assets/ab7c74b1-b6f1-40cb-9043-3e77267e5ce3" />
+
+Jika pengguna memilih opsi 3. Ubah Koleksi, maka program akan meminta nomor koleksi yang ingin diubah. Setelah itu, pengguna dapat memasukkan data baru untuk mengganti data lama. Setelah sudah memasukkan data baru, pengguna bisa mengecek kembali dengan opsi 2. Lihat Koleksi.
 
 ## Hapus Koleksi
 
-Jika nomor 4 yang diinput, maka akan diarahkan untuk menghapus produk. Masukkan nomor alat makeup yang ingin dihapus.
+<img width="451" height="437" alt="image" src="https://github.com/user-attachments/assets/10d94060-b072-4c7d-9f70-7ac446d67b64" />
+
+Jika pengguna memilih opsi 4. Hapus Koleksi, maka program akan meminta nomor koleksi yang ingin dihapus. Setelah itu, data koleks akan dihapus dari daftar
 
 ## Keluar
 
-Jika nomor 5 yang diinput, maka pengguna akan keluar dari program.
+<img width="323" height="210" alt="image" src="https://github.com/user-attachments/assets/86fbba2c-21d1-4fd3-9336-1d834ead0530" />
+
+Jika pengguna memilih opsi 5. Keluar, maka program akan berakhir.
 
