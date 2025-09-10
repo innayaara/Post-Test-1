@@ -30,7 +30,7 @@ Saat program pertama kali dijalankan, sistem akan langsung menampilkan menu utam
 
 <img width="459" height="282" alt="image" src="https://github.com/user-attachments/assets/cd2fbccf-b95e-44ab-8379-1377b0018d69" />
 
-
+Jika pengguna memilih opsi 1. Tambah Koleksi, program akan meminta pengguna untuk mengisi data alat makeup yang ingin dimasukkan ke dalam daftar koleksi. Setelah semua data dimasukkan dengan benar, program akan menyimpan informasi tersebut ke dalam ArrayList dan menampilkan pesan "Koleksi berhasil ditambahkan!". Data alat makeup baru akan tersimpan dan bisa dilihat kembali melalui menu Lihat Koleksi.
 
 
 ## Lihat Koleksi
